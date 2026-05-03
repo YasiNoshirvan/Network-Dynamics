@@ -24,34 +24,6 @@ The course projects cover different aspects of network dynamics:
 
 ---
 
-## 📁 Repository Structure
-
-```text
-Network_Dynamics_and_Learning_Projects/
-│
-├── Project_01_Network_Flows_Centrality_Traffic/
-│   ├── hw1_en_2025-26.pdf
-│   ├── Network_Dynamics_HW1_Report.pdf
-│   ├── Network_Dynamics_HW1_Code.ipynb
-│   └── README.md
-│
-├── Project_02_Random_Walks_DeGroot_Open_Networks/
-│   ├── hw2_en_2025-26.pdf
-│   ├── Homework2_Report.pdf
-│   ├── Homework2_Code.ipynb
-│   └── README.md
-│
-├── Project_03_Epidemic_Network_Games_Dynamics/
-│   ├── hw-3-2025-26_en.pdf
-│   ├── Homework3_Report.pdf
-│   ├── Homework3_Code.ipynb
-│   └── README.md
-│
-└── README.md
-```
-
----
-
 ## 🧪 Projects
 
 | Project | Main Focus | Methods / Concepts |
